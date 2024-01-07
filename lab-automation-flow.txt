@@ -1,0 +1,4 @@
+databse schema (database tables ka structure)
+database connection
+authentication (login/logout)
+CRUD 
